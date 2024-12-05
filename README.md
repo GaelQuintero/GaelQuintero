@@ -9,7 +9,7 @@
 - **Lenguajes:** PHP, JavaScript, TypeScript  
 - **Frameworks & Librerías:** Laravel, Node.js, Express.js, React (básico)  
 - **Frontend:** HTML, CSS, Tailwind, Bootstrap  
-- **Bases de Datos:** MySQL  
+- **Bases de Datos:** MySQL, MongoDB, SQLServer  
 - **Otros:** Git, Docker, APIs REST  
 
 ---
