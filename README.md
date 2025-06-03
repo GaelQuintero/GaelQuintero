@@ -14,14 +14,6 @@
 
 ---
 
-🚀 **¿Qué puedo hacer por ti?**  
-✅ Crear aplicaciones web escalables y dinámicas  
-✅ Diseñar sistemas backend robustos  
-✅ Construir interfaces atractivas y responsivas  
-✅ Integrar APIs y servicios externos  
-
----
-
 📈 **Mi objetivo**  
 Seguir aprendiendo y desarrollándome en el mundo del desarrollo web, aportando soluciones innovadoras y eficientes.  
 
