@@ -6,8 +6,8 @@
 ---
 
 🛠️ **Tecnologías y Herramientas**  
-- **Lenguajes:** PHP, JavaScript, TypeScript  
-- **Frameworks & Librerías:** Laravel, Node.js, Express.js, React (básico)  
+- **Lenguajes:** PHP, JavaScript  
+- **Frameworks & Librerías:** Laravel, Livewire
 - **Frontend:** HTML, CSS, Tailwind, Bootstrap  
 - **Bases de Datos:** MySQL, MongoDB, SQLServer  
 - **Otros:** Git, Docker, APIs REST  
